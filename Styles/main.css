@@ -1,0 +1,19 @@
+/* Standard Variable Definitions for Elayo Trees Motel Website */
+:root {
+    --bgColor: white;
+    --textColor: black;
+    --fontSize: 18px;
+}
+
+
+.ImgWelcomeLogo {
+    max-width: 50%;
+    height: auto;
+    padding: 0 25%;
+}
+
+body p {
+    background-color: var(--bgColor);
+    color: var(--textColor);
+    text-align: center;
+}
